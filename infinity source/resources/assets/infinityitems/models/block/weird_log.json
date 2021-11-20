@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "infinityitems:blocks/weird_log_top",
-    "side": "infinityitems:blocks/weird_log"
-  }
-}
