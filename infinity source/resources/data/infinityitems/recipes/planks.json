@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "infinityitems:weird_log"
+    }
+  ],
+  "result": {
+    "item": "infinityitems:weird_planks",
+    "count": 4
+  }
+}
